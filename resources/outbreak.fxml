@@ -1,0 +1,13 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.StackPane?>
+<StackPane fx:controller="io.libsoft.outbreak.controller.OutbreakController"
+          xmlns:fx="http://javafx.com/fxml" >
+
+
+
+
+</StackPane>
